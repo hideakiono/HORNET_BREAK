@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 75db46042aca4e943ac0e593833d98ae
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GL-Nummernschild-Eng
+  fontNames:
+  - GL-Nummernschild-Eng
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b4e8dd6db721be84abf1b1d5369a2f48, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
